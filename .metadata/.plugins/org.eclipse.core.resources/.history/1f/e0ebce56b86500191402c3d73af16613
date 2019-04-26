@@ -1,0 +1,12 @@
+package Entidades;
+
+public class Director extends Empleado {
+
+	@Override
+	public double calcularSueldo() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+
+}

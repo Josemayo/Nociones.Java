@@ -1,0 +1,10 @@
+
+public class MainCasting {
+	public static void main(String[] args) {
+		double real = 5;
+		int entero = (int)real; // se llama casting, y permite convertir un tipo en otro
+		System.out.println(entero);
+		
+	}
+
+}

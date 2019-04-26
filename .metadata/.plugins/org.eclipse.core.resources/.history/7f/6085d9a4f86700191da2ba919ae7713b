@@ -1,0 +1,15 @@
+package ejemplo1;
+
+public class Main1 {
+
+	public static void main(String[] args) {
+		// manera clasica, Spring NO esta llevando el control de este objeto
+		Persona p =new Persona();
+		p.setNombre("Hommer J. Simpson");
+		p.setEdad(37);
+		p.setPeso(110);
+		
+	}
+	
+	
+}

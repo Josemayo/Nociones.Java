@@ -1,0 +1,8 @@
+package Entidades;
+
+public class Empleado {
+	private String nombre;
+	private String dni;
+	private double nomina;
+
+}

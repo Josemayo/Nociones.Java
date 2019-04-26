@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/home/pue/Documents/workspace-java/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3902155712.index
+265729147.index
+2290687495.index
+662811264.index
+2639089372.index
+1467051529.index
+3863220235.index
+1467051529.index
